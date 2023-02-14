@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DigiClock
+comment0.text=\r\n\ This\ class\ can\ print\ out\ all\ of\ the\ possible\ times\ the\ clock\ could\ display.\r\n\ Print\ all\ possible\ times\ when\ all\ the\ three\ numbers\ are\ the\ same.\r\n\ Print\ all\ cases\ from\ the\ time\ entered\ between\ the\ previous\ hour\ and\ the\ next\ hour.\r\n\ \r\n\ @author\ Siwei\ Li\r\n\ @version\ March\ 11,\ 2022\r\n
+comment1.params=
+comment1.target=void\ printAllClockCombinations()
+comment1.text=\r\n\ This\ method\ prints\ all\ possible\ times\ when\ all\ the\ three\ numbers\ are\ the\ same\ \r\n
+comment2.params=hours\ minutes\ seconds
+comment2.target=void\ printSomeClockCombinations(int,\ int,\ int)
+comment2.text=\r\n\ Prints\ all\ cases\ from\ the\ time\ entered\ between\ the\ previous\ hour\ and\ the\ next\ hour.\ \r\n
+numComments=3
