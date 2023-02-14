@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NumberChecking
+comment0.text=\r\n\ Add\ definitions\ for\ fields\ and\ initialise\ them.\r\n\ Determine\ whether\ the\ number\ entered\ is\ an\ integer\ or\ not,\ whether\ it\ is\ an\ even\ number.\r\n\ \r\n\ @author\ Siwei\ Li\r\n\ @version\ March\ 11,\ 2022\r\n
+comment1.params=value
+comment1.target=NumberChecking(double)
+comment1.text=\r\n\ The\ constructor\ of\ the\ NumberChecking\ class\ that\ has\ one\ parameter\ of\ the\ double\ type.\r\n\ Initialise\ fields.\r\n\ If\ the\ number\ field\ holds\ a\ negative\ integer,\ compute\ its\ absolute\ value\ and\ assign\ it\ to\ the\ result\ field.\u0000\r\n\ If\ the\ number\ field\ holds\ a\ positive\ integer,\ compute\ the\ division\ of\ the\ number\ by\ two.\ \r\n\ Assign\ the\ remainder\ of\ this\ division\ to\ the\ remainder\ field.\ Assign\ the\ quotient\ of\ the\ division\ to\ the\ result\ field.\u0000\r\n
+comment2.params=
+comment2.target=void\ checkNumberType()
+comment2.text=\r\n\ This\ method\ can\ check\ if\ the\ value\ held\ by\ the\ number\ field\ has\ a\ decimal\ part\ or\ not.\r\n\ It\ can\ also\ check\ if\ the\ value\ inside\ the\ number\ field\ is\ an\ even\ number.\r\n\ Print\ judgment\ conclusions.\r\n
+numComments=3
