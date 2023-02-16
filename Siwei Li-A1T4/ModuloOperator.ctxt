@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ModuloOperator
+comment0.text=\r\n\ This\ class\ will\ implement\ regular\ digital\ output.\r\n\ Print\ all\ possible\ times\ when\ all\ the\ three\ numbers\ are\ the\ same.\r\n\ Print\ all\ cases\ from\ the\ time\ entered\ between\ the\ previous\ hour\ and\ the\ next\ hour.\r\n\ \r\n\ @author\ Siwei\ Li\r\n\ @version\ March\ 13,\ 2022\r\n
+comment1.params=dividend\ length
+comment1.target=ModuloOperator(int,\ int)
+comment1.text=\r\n\ This\ is\ a\ constructor\ with\ two\ integer\ arguments.\r\n\ It\ implements\ numeral\ arithmetic\ and\ printing.\r\n
+numComments=2
